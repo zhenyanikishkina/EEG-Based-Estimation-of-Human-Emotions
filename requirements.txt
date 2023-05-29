@@ -1,0 +1,9 @@
+torch==1.12.1
+pandas
+tqdm
+matplotlib
+dgl
+numpy
+SciencePlots
+scikit-learn
+xlrd==1.2.0
